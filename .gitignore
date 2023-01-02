@@ -1,0 +1,3 @@
+# Project exclude paths
+/irq/
+/irq/event/
